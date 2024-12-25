@@ -1,0 +1,4 @@
+FROM almalinux:9
+LABEL Author ="Poojitha"\
+      company = "Bench Accounting"\
+      duration = "3years"
